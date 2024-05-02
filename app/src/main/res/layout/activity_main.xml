@@ -189,7 +189,7 @@
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="@+id/linearLayout"
                     app:layout_constraintTop_toTopOf="parent"
-                    tools:srcCompat="@drawable/small_white_circle" />
+                    android:src="@drawable/small_white_circle" />
             </androidx.constraintlayout.widget.ConstraintLayout>
 
             <LinearLayout
